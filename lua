@@ -1,6 +1,6 @@
--- SKIDDED BY SIGMA @rizzify101
--- SKIDDED BY SIGMA @rizzify101
--- SKIDDED BY SIGMA @rizzify101
+-- Tiktok @Yunja
+-- Tiktok @Yunja
+-- Tiktok @Yunja
 
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
