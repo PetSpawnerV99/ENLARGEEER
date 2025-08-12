@@ -150,7 +150,7 @@ footer.BackgroundTransparency = 1
 footer.Font = Enum.Font.FredokaOne
 footer.TextSize = 14
 footer.TextColor3 = Color3.fromRGB(160, 160, 160)
-footer.Text = "Tiktok: @yawiyawiyawiz"
+footer.Text = "Tiktok: @Yunja"
 footer.TextXAlignment = Enum.TextXAlignment.Center
 footer.Parent = frame
 
